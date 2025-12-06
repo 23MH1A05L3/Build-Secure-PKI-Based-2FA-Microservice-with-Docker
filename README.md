@@ -61,4 +61,5 @@ echo ""
 echo ""
 
 echo "Docker image URL for evaluation: ramapithani/build-secure-pki-based-2fa-microservice-with-docker-app:latest"
+
 echo "Docker Hub link: https://hub.docker.com/r/ramapithani/build-secure-pki-based-2fa-microservice-with-docker-app"
